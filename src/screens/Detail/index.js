@@ -134,5 +134,4 @@ const Detail = () => {
     </View>
   );
 };
-
 export default Detail;
